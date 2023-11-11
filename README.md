@@ -1,5 +1,14 @@
 # Image-Search-Engine
 
+## Getting Started
+Click [here](https://image-search-engine-6549b.web.app/)
+
+or
+
+https://image-search-engine-6549b.web.app/
+
+Start searching for images by entering keywords in the search bar.
+
 ## Overview
 
 This is a simple Image Search Engine implemented using HTML, CSS, and JavaScript. It allows users to search for images based on keywords and displays relevant results in a visually appealing manner.
@@ -20,15 +29,6 @@ HTML: Provides the basic structure and markup for the web page.
 CSS: Styles the HTML elements to create an aesthetically pleasing and responsive layout.
 
 JavaScript: Implements the dynamic behavior of the Image Search Engine, handling user input, making API requests, and updating the UI.
-
-## Getting Started
-Click [here](https://image-search-engine-6549b.web.app/)
-
-or
-
-https://image-search-engine-6549b.web.app/
-
-Start searching for images by entering keywords in the search bar.
 
 ## How it Works
 User Input: Enter keywords into the search bar.
